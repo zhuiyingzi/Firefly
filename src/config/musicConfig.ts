@@ -56,6 +56,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/synmd.jpg",
 				lrc: "/assets/music/lrc/感情グラス.lrc",
 			},
+			{
+				name: "原来这就是所谓的世界",
+				artist: "花谱",
+				url: "/assets/music/原来这就是所谓的世界.mp3",
+				cover: "/assets/music/cover/ylnjsswsj.jpg",
+				lrc: "/assets/music/lrc/原来这就是所谓的世界.lrc",
+			},
 		],
 	},
 };
